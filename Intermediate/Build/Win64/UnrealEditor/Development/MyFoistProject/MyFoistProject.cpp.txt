@@ -1,0 +1,2 @@
+C:\Users\e-vov\Documents\Unreal Projects\MyFoistProject\Intermediate\Build\Win64\UnrealEditor\Development\MyFoistProject\Definitions.MyFoistProject.h
+C:\Users\e-vov\Documents\Unreal Projects\MyFoistProject\Source\MyFoistProject\MyFoistProject.h

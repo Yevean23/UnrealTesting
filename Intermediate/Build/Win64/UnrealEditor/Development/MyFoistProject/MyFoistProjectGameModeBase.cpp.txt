@@ -1,0 +1,7 @@
+C:\Users\e-vov\Documents\Unreal Projects\MyFoistProject\Intermediate\Build\Win64\UnrealEditor\Development\MyFoistProject\Definitions.MyFoistProject.h
+C:\Users\e-vov\Documents\Unreal Projects\MyFoistProject\Source\MyFoistProject\MyFoistProjectGameModeBase.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\GameModeBase.generated.h
+C:\Users\e-vov\Documents\Unreal Projects\MyFoistProject\Intermediate\Build\Win64\UnrealEditor\Inc\MyFoistProject\MyFoistProjectGameModeBase.generated.h

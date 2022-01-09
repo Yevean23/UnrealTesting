@@ -1,0 +1,5 @@
+C:\Users\e-vov\Documents\Unreal Projects\MyFoistProject\Intermediate\Build\Win64\UnrealEditor\Development\MyFoistProject\Definitions.MyFoistProject.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\e-vov\Documents\Unreal Projects\MyFoistProject\Source\MyFoistProject/FloatingActor.h
+C:\Users\e-vov\Documents\Unreal Projects\MyFoistProject\Intermediate\Build\Win64\UnrealEditor\Inc\MyFoistProject\FloatingActor.generated.h

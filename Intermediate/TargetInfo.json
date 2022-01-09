@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyFoistProject",
+			"Path": "C:\\Users\\e-vov\\Documents\\Unreal Projects\\MyFoistProject\\Source\\MyFoistProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyFoistProjectEditor",
+			"Path": "C:\\Users\\e-vov\\Documents\\Unreal Projects\\MyFoistProject\\Source\\MyFoistProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
